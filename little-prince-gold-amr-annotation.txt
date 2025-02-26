@@ -50,7 +50,7 @@
             :op1 (y2 / yut.01
                   :ARG0 (y3 / yılan
                         :mod (b / boa))
-                  :ARG1 (a 2/ av
+                  :ARG1 (a / av
                         :poss y3
                         :mod (b2 / bütün))
                   :prep-without (ç / çiğne.01
