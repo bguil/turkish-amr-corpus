@@ -273,10 +273,9 @@
                 :ARG1-of (i4 / işle.02
                         :ARG0 (p2 / person :wiki "Recep_Tayyip_Erdoğan" :name (n / name :op1 (e3 / Erdoğan)))))
           :ARG1 (o2 / ol.02)
-                :ARG0 s2
-                :ARG1 (e5 / engel)
-                :purpose (s3 / seç.01
-                        :ARG0 p2))))
+          :ARG1 (e5 / engel)
+          :purpose (s3 / seç.01
+                 :ARG0 p2))))
 
 
 # ::id IMST.24 ::date 07/23/2021 ::authors Elif
@@ -8293,8 +8292,7 @@
     :ARG0 ( b / ben
       :mod (t / tek-baş))
     :ARG1 ( s / siz)
-      :mod (h2 / hepsi)
-  :ARG0 b))
+    :mod (h2 / hepsi)))
 
 # ::id IMST.600 ::date 07/25/2021 ::authors Elif                              
 # ::snt Kaşar mesela .
