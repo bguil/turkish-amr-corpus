@@ -34,7 +34,7 @@
 # ::id IMST.06 ::date 07/23/2021 ::authors Elif
 # ::snt Karşısında , pantolonu dizlerine dek ıslak , önlük torbası ham eriklerle dolu İbrahim dikiliyordu .
 (d / dikil.01
-      :ARG0 (p / person : wiki - :name (n / name :op1 (i / ibrahim))
+      :ARG0 (p / person :wiki - :name (n / name :op1 (i / ibrahim))
             :mod (ı / ıslak
                   :domain (d2 / diz
                         :poss (p2 / pantolon
@@ -276,7 +276,7 @@
                 :ARG0 s2
                 :ARG1 (e5 / engel)
                 :purpose (s3 / seç.01
-                        :ARG0 p2))
+                        :ARG0 p2))))
 
 
 # ::id IMST.24 ::date 07/23/2021 ::authors Elif
@@ -776,7 +776,7 @@
         :ARG0 (o2 / o))
         :ARG1 (s / sözcük
               :purpose (s2 / sevgi)
-        :time (a / ardından))
+        :time (a / ardından)))
 
 # ::id IMST.65 ::date 07/24/2021 ::authors Elif
 # ::snt Bir ihtimal olarak bu hususu belirtiyorlar .
@@ -787,7 +787,7 @@
     :prep-by (o3 / ol.01
         :ARG0 h
         :ARG1 (i / ihtimal
-        :quant ( b3 / bir))))
+        :quant ( b3 / bir)))))
 
 
 # ::id IMST.66 ::date 07/24/2021 ::authors Elif
@@ -833,7 +833,7 @@
                     :ARG1 (h4 / heyet
                           :ARG0-of (h3 / hazırla.01
                                 :ARG1 (r / rapor)))
-                    :ARG2 (b / başkan)))
+                    :ARG2 (b / başkan))))
 
 
 # ::id IMST.69 ::date 07/24/2021 ::authors Elif
@@ -861,7 +861,7 @@
                           :ARG0 (o / o)))
     :time (a / ara
           :poss (h / hıçkır.01
-                :ARG0 b2)))
+                :ARG0 b2))))
 
 
 # ::id IMST.72 ::date 07/24/2021 ::authors Elif
@@ -1210,7 +1210,7 @@
       :ARG2 (i2 / incele.01
             :ARG0 o
             :ARG1 (r / rapor
-                  :manner (d / detaylı)))
+                  :manner (d / detaylı))))
 
 
 # ::id IMST.100 ::date 06/24/2021 ::authors Elif
@@ -2948,7 +2948,7 @@
                   :op1 (b / baba
                         :mod (d / doktor))
                   :op2 (e / eş
-                        :mod (s / sadık))
+                        :mod (s / sadık)
                   :op3 (d2 / delikanlı
                         :ARG0-of (a / atıl.01
                               :ARG1 (h / hayat
@@ -2958,7 +2958,7 @@
             :ARG2 (a6 / and
                   :op1 (i2 / imaj
                         :poss (a3 / aile
-                              :poss (t / toplum)))
+                              :poss (t / toplum)))))))
 
 
 # ::id IMST.234 ::date 06/29/2021 ::authors Elif
@@ -3376,7 +3376,7 @@
       :ARG0 (b / ben)
       :ARG1 (y / yeşillik)
       :purpose (a / alın.01 :polarity -
-            :ARG0 (ç / çevreci))
+            :ARG0 (ç / çevreci)))
 
 
 # ::id IMST.253 ::date 07/04/2021 ::authors Elif
@@ -5630,7 +5630,7 @@
 # ::snt Beni ziyan ettin , diyor , ziyan ettin .
 (d / de.01
     :ARG0 (o / o)
-    ARG1 (e / et.06
+    :ARG1 (e / et.06
           :ARG0 (s / sen)
           :ARG1 (z / ziyan)
           :ARG2 (b / ben)))
@@ -5824,7 +5824,7 @@
             :poss (b / biz)
             :ARG1-of (h / hafifle.01
 		  :ARG1-of (y3 / yap.03
-			:ARG1-of ( / mümkün.01)
+			:ARG1-of (m / mümkün.01)
                         :ARG0 b)
                   :prep-by (a2 / anlat.01
                         :ARG0 b
@@ -6599,7 +6599,7 @@
             :ARG1 (ç / çözüm)
             :ARG4 (s / sorun
                   :ARG1-of (i2 / ilgilen.01
-                        :ARG0 (o / organizasyon :wiki ""European_Union"" :name (i3 / isim :op1 (a / AB)))
+                        :ARG0 (o / organizasyon :wiki "\"European_Union\"" :name (i3 / isim :op1 (a / AB)))
                         :manner (y / yakın))
                   :mod (b / bu))
             :instrument (y2 / yönetmelik
@@ -7395,7 +7395,7 @@
                   :mod (b / büyük))
             :ARG1 (a / aşık))
       :ARG1 (h / heyecan
-            :degree (ç / çok))
+            :degree (ç / çok)))
 
 
 # ::id IMST.549 ::date 07/18/2021 ::authors Elif
@@ -7477,7 +7477,7 @@
 (k / kolay :polarity -
       :domain (a / alış.01
             :ARG2 (y / yolculuk
-                  :poss (k2 / kızak)))
+                  :poss (k2 / kızak))))
 
 # ::id IMST.554 ::date 07/18/2021 ::authors Elif
 # ::snt Ancak bu durum , yeni ve uzun  soluklu kestirimlerin ortaya  atıldığı yeni bir gündemin başlangıcında değil , eski programın ürünlerinin hasadının  yapıldığı bir dönemde  bulunduğumuz gerçeğini değiştirmez.
@@ -7755,7 +7755,7 @@
             :ARG0 s3
             :ARG1 (y2 / yok)
             :ARG2 (i2 / inandırıcılık
-                  :poss y))
+                  :poss y)))
 
 
 # ::id IMST.571 ::date 07/18/2021 ::authors Elif
@@ -8306,7 +8306,7 @@
       :mod (t / tek-baş))
     :ARG1 ( s / siz)
       :mod (h2 / hepsi)
-  :ARG0 b)
+  :ARG0 b))
 
 # ::id IMST.600 ::date 07/25/2021 ::authors Elif                              
 # ::snt Kaşar mesela .

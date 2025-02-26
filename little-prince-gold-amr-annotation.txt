@@ -40,7 +40,7 @@
             :domain (ş / şey
                   :ARG1-of (ç / çiz.01
                         :ARG0 (b2 / ben))))
-      :ARG2 (i̇ / İşte))
+      :ARG2 (i / İşte))
 
 
 # ::id 596 lpp_tr.5 ::date 07/19/2021 ::authors Elif
@@ -350,7 +350,6 @@
 
 # ::id 617 lpp_tr.26 ::date 07/20/2021 ::authors Elif
 # ::snt Büyüklerle çok vakit geçirdim.
-
 (g / geçir.02
       :ARG0 (b / ben)
       :ARG1 (v / vakit
