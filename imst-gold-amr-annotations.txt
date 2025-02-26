@@ -521,7 +521,6 @@
 
 # ::id IMST.43 ::date 07/24/2021 ::authors Elif
 # ::snt Tunguzların on bir kolundan biri Evenler .
-
 (e / ethnic-group :wiki "Evenler" :name (n / name :op1 (e2 / Evenler))
       :domain (k / kol
             :ARG1-of (i2 / include-91
@@ -691,7 +690,6 @@
 
 # ::id IMST.57 ::date 07/24/2021 ::authors Elif
 # ::snt Erkek öğretmen daha sert olur , kızlarla anlaşamaz diye düşünüyorum .
-
 (d / düşün.01
       :ARG0 (b / ben)
       :ARG1 (a / and
@@ -817,7 +815,7 @@
                         :unit (y2 / yıl))
                   :manner (p / paralel
                         :prep-with (k2 / kayıp
-                              :location (o / organization :wiki "Borsa_Istanbul" :name (n / name :op1 (i̇ / İMKB)))))))
+                              :location (o / organization :wiki "Borsa_Istanbul" :name (n / name :op1 (i / İMKB)))))))
        :ARG2 3)
 
 # ::id IMST.68 ::date 07/24/2021 ::authors Elif
@@ -1220,7 +1218,7 @@
                         :ARG0-of (k2 / konuş.01
                               :ARG3 (a / and
                                     :op1 (l / dil :wiki "German_language" :name (i3 / isim :op1 (a2 / Almanca)))
-                                    :op2 (l2 / dil :wiki "English_language" :name (i4 / isim :op1 (i̇ / İngilizce))))
+                                    :op2 (l2 / dil :wiki "English_language" :name (i4 / isim :op1 (i / İngilizce))))
                               :manner (i5 / iyi
                                     :degree (ç2 / çok))))))
       :ARG1 (s / sefer
@@ -1323,7 +1321,6 @@
 
 # ::id IMST.110::date 06/24/2021 ::authors Elif
 # ::snt Korku doluydum .
-
 (k / kork.01
       :ARG0 (b / ben)
       :degree (ç / çok))
@@ -1331,7 +1328,6 @@
 
 # ::id IMST.111 ::date 06/24/2021 ::authors Elif
 # ::snt Ne iş  yaptığımızı falan filan .
-
 (i / iş
       :ARG1-of (y / yap.02
             :ARG0 (b / biz))
@@ -1340,7 +1336,6 @@
 
 # ::id IMST.112 ::date 06/24/2021 ::authors Elif
 # ::snt Bir süre kapısında bir köpek gibi süründüm .
-
 (s / sürün.01
       :ARG0 (b / ben)
       :location (k / kapı
@@ -1416,7 +1411,6 @@
 
 # ::id IMST.117 ::date 06/24/2021 ::authors Elif
 # ::snt Kadına baktım ,  havalıydı ,  hoştu .
-
 (a / and
       :op1 (b / bak.01
             :ARG0 (b2 / ben)
@@ -1911,7 +1905,6 @@
 
 # ::id IMST.161 ::date 06/26/2021 ::authors Elif
 # ::snt Bence çok  haklılar .
-
 (h / haklı
       :domain (o / onlar)
       :degree (ç / çok))
@@ -2006,7 +1999,7 @@
 # ::snt Dün akşam İsraille Filistin Washington'da tarihi bir barışa imza attılar .
 (a / at.07
       :ARG0 (a2 / and
-            :op1 (ü / ülke :wiki "Israel" :name (i2 / isim :op1 (i̇ / İsrail)))
+            :op1 (ü / ülke :wiki "Israel" :name (i2 / isim :op1 (i / İsrail)))
             :op2 (ü2 / ülke :wiki "Palestine" :name (i3 / isim :op1 (f / Filistin))))
       :ARG1 (b / barış
             :mod (t / tarihi))
@@ -2382,7 +2375,6 @@
 
 # ::id IMST.195 ::date 06/27/2021 ::authors Elif
 # ::snt Annem bendeki bu ani değişime çok sevindi .
-
 (s / sevin.01
       :ARG0 (a / anne
             :poss (b / ben))
@@ -2403,7 +2395,6 @@
 
 # ::id IMST.197 ::date 06/27/2021 ::authors Elif
 # ::snt altı banka  gecikme faizini düşürüyor .
-
 (d / düş.02
       :ARG0 (b / banka :quant 6)
       :ARG1 (f / faiz
@@ -2524,7 +2515,7 @@
                                     :prep-after (o2 / otur.01
                                           :location (a2 / and
                                                 :op1 (ş / şehir :wiki "Ankara" :name (i5 / isim :op1 (a3 / Ankara)))
-                                                :op2 (ş2 / şehir :wiki "Istanbul" :name (i6 / isim :op1 (i̇ / İstanbul)))
+                                                :op2 (ş2 / şehir :wiki "Istanbul" :name (i6 / isim :op1 (i / İstanbul)))
                                                 :op3 (o3 / or
                                                       :op1 (k2 / kenar
                                                             :location (d4 / deniz))
@@ -3014,7 +3005,6 @@
 
 # ::id IMST.237 ::date 06/30/2021 ::authors Elif
 # ::snt Hem eminim ki , benim de benden daha büyük bir kardeşim olsaydı , o da aynılarını yapardı .
-
 (o / ol.22
       :ARG0 (b / ben)
       :ARG1 (y / yap.01
@@ -3197,7 +3187,6 @@
 
 # ::id IMST.244 ::date 07/03/2021 ::authors Elif
 # ::snt Onun güzelliğine  duyduğum hayranlıkla  başlayan ilişki daha sonra kesin bir cinsel bağımlılığa dönüşmüş ve hep öyle sürmüştü , hatta bir ara artık onun güzelliğini bile fark  edemez hale gelmiştim .
-
 (o / ol.17
     :ARG0 (a / and
         :op1 (d / dönüş.01
@@ -3433,7 +3422,7 @@
                                                 :mod (o / or
                                                       :op1 (o2 / orta)
                                                       :op2 (u / uzun))))
-                                    :poss (o3 / organizasyon :wiki "Borsa_Istanbul" :name (i3 / isim :op1 (i̇ / İMKB)))))))))
+                                    :poss (o3 / organizasyon :wiki "Borsa_Istanbul" :name (i3 / isim :op1 (i / İMKB)))))))))
 
 
 
@@ -3616,10 +3605,10 @@
 (a / ara.01
   :ARG0 ( b2 / ben)
   :ARG1 (k / kişi
-    :wiki (- / -
+    :wiki -
       :name (i / isim
         :op0 ( m / mahmut)
-        :op1 ( b1 / bey)))))
+        :op1 ( b1 / bey))))
 
 
 # ::id IMST.270 ::date 07/04/2021 ::authors Elif
@@ -4293,7 +4282,7 @@
                                     :quant (o / onbeş)
                                     :unit (g2 / gün)))
                         :location (ş / şehir :wiki "Istanbul"
-                              :op1 (i̇ / İstanbul))
+                              :op1 (i / İstanbul))
                         :accompanier (a2 / and
                               :op1 (a3 / anne
                                     :poss k)
@@ -5111,7 +5100,7 @@
 # ::snt İngiliz , patlıcanı  boyanmış paskalya yumurtasıyla karıştırıyor olmalı .
 (ö / öngör.01
       :ARG1 (y / yap.03
-            :ARG0 (ü / ülke :wiki "England" :name (i2 / isim :op1 (i̇ / İngiltere)))
+            :ARG0 (ü / ülke :wiki "England" :name (i2 / isim :op1 (i / İngiltere)))
             :ARG1 (k / karış.01
                   :ARG1 (p / patlıcan)
                   :ARG2 (y2 / yumurta
@@ -6599,7 +6588,7 @@
             :ARG1 (ç / çözüm)
             :ARG4 (s / sorun
                   :ARG1-of (i2 / ilgilen.01
-                        :ARG0 (o / organizasyon :wiki "\"European_Union\"" :name (i3 / isim :op1 (a / AB)))
+                        :ARG0 (o / organizasyon :wiki "European_Union" :name (i3 / isim :op1 (a / AB)))
                         :manner (y / yakın))
                   :mod (b / bu))
             :instrument (y2 / yönetmelik
@@ -7420,7 +7409,6 @@
 
 # ::id IMST.550 ::date 07/18/2021 ::authors Elif
 # ::snt Genelkurmay Başkanı eşlerinin YAŞ üyelerinin eşlerine geleneksel olarak  verdikleri öğle yemeği , Başbakan Gül'ün eşi Hayrünnisa Gül'ün  türbanlı  olması nedeniyle gerçekleştirilmedi .
-
 (y / yap.03
     :ARG1 (m / mümkün.01 :polarity -
           :ARG1 (g / gerçekleş.01
@@ -7571,7 +7559,7 @@
             :ARG0 (s / siz)
             :purpose (b / buluş.01
                 :ARG2 (y / yaşam
-                      :location (ş / şehir :wiki "İstanbul" :name (i2 / isim :op1 (i̇ / İstanbul)))
+                      :location (ş / şehir :wiki "İstanbul" :name (i2 / isim :op1 (i / İstanbul)))
                       :mod (e / eğlence))
                 :time (d / date-entity
                       :weekday (ç / çarşamba))
@@ -7903,7 +7891,7 @@
                         :ARG2-of (i4 / include-91
                               :ARG1 (d2 / dava
                                     :poss (a / and
-                                          :op1 (s / siyasi-parti :wiki "Workers'_Party_(Turkey)" :name (i2 / isim :op1 (i4̇ / İşçi) :op2 (p / Partisi)))
+                                          :op1 (s / siyasi-parti :wiki "Workers'_Party_(Turkey)" :name (i2 / isim :op1 (i4 / İşçi) :op2 (p / Partisi)))
                                           :op2 (g2 / gazete :wiki - :name (i3 / isim :op1 (a2 / Aydınlık))))))
                         :extent (ç2 / çok
                               :degree (p2 / pek))
